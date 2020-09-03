@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "chromeless": "^1.5.2",
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^1.13.0"
   }
 }
